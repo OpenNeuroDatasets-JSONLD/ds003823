@@ -108,16 +108,6 @@
     "Levels": {
       "1": "exist",
       "0": "no"
-    },
-    "Annotations": {
-      "IsAbout": {
-        "TermURL": "nb:Assessment",
-        "Label": ""
-      },
-      "IsPartOf": {
-        "TermURL": "cogatlas:trm_4da86cfe8cf1b",
-        "Label": ""
-      }
     }
   },
   "ses-post_task-SART": {
